@@ -1,0 +1,74 @@
+<!-- <!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ <link rel="stylesheet" href="cyberpunk.css">
+</head>
+<body>
+    <h1>WannaGo</h1>
+    <script src="index.js"></script>
+</body>
+</html> -->
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="cyberpunk.css">
+    
+</head>
+<body>
+
+    <header>
+        <h1>Your Name:Sakthi Vignesh S</h1>
+        <!-- <p>Brief introduction about yourself.</p> -->
+    </header>
+<div>
+    <img src="D:\PHOTOS\Pictures\Wallpapers\peakpx (2).jpg" alt="">
+</div>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>JAVA</li>
+            <li>Python</li>
+            <li>C & C++</li>
+            <li>Node js</li>
+            <li>Linux basics</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <h3>Post Scheduler</h3>
+                <p>Sollura alavukku onnnum perusa pannala</p>
+            </li>
+            <li>
+                <h3>Car Rental System</h3>
+                <p>Athe katha tha </p>
+            </li>
+
+            <li>
+                <h3>Fisheries Resource Management System</h3>
+                <p>URUTTU PROJECCT </p>
+            </li>
+            
+            <!-- Add more projects as needed -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact: sakthisiva2004@gmail.com</p>
+        <!-- Add other contact information as needed -->
+    </footer>
+
+</body></html>
